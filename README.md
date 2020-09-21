@@ -9,7 +9,8 @@ Atividade padrão de projeto - **Composite**.
 3. [Motivação](https://github.com/igorgodoy/cco-programacao-avancada-composite#motiva%C3%A7%C3%A3o)
 4. [Aplicação](https://github.com/igorgodoy/cco-programacao-avancada-composite#aplica%C3%A7%C3%A3o)
 5. [Estrutura](https://github.com/igorgodoy/cco-programacao-avancada-composite#estrutura)
-6. [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-composite#implementa%C3%A7%C3%A3o)
+6. [Participantes](https://github.com/igorgodoy/cco-programacao-avancada-composite#participantes)
+7. [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-composite#implementa%C3%A7%C3%A3o)
 
 ## Composite
 
