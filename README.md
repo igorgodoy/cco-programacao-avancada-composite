@@ -18,7 +18,7 @@ Atividade padrão de projeto sobre o padrão de projeto **Composite**.
 
 ### Aplicação
 
-- Este padrão é comumente utilizado para representar hierarquias de componentes em *User Interfaces*, podendo um cadastro de usuário que deve conter componentes/objetos filhos como um endereço, por exemplo.
+- Este padrão é comumente utilizado para representar hierarquias de componentes em *User Interfaces*. Um cadastro de usuário que deve conter componentes/objetos filhos como um endereço, por exemplo, pode ser desenhado utilizando este padrão de projeto.
 
 ### Estrutura
 
