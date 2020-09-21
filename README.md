@@ -1,6 +1,6 @@
 # Programação Avançada
 
-Atividade padrão de projeto sobre o padrão de projeto **Composite**.
+Atividade padrão de projeto - **Composite**.
 
 ## Conteúdos
 
