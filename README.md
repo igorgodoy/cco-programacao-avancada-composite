@@ -33,6 +33,13 @@ Atividade padrão de projeto - **Composite**.
 
 - A estrutura de um **Composite** é, de forma geral, a composição de um objeto por várias "partes", ou seja, outros objetos. Este [diagrama](https://sparxsystems.com/images/screenshots/uml2_tutorial/CP01.GIF) representa um componente desenhado utilizando este padrão de projeto.
 
+### Participantes
+
+- *Component*: define comportamentos comuns para todas as classes existentes e declara uma interface para os acessos dos objetos do composite.
+- *Leaf*: firmar o comportamento para os objetos primitivos.
+- *Composite*: Armazena componentes filhos, implementa suas operações, previamente definidas pelo *Component*.
+- *Client*: Manipula todos os objetos da composição utilizando a *interface Component*.
+
 ### Implementação
 
-- [Example](https://github.com/igorgodoy/cco-programacao-avancada-composite/tree/master/example).
+- [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-composite/tree/master/example) onde o padrão de projeto **Composite** foi utilizado para o desenvolvimento de um sistema de arquivos.
